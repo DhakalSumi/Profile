@@ -14,9 +14,13 @@ Communicate complex data in a compelling and understandable way.
 🔧 Tools & Technologies
 
 Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
+Visualization: Tableau, Matplotlib, Seaborn
+
 Database Management: SQL, Google Spreadsheets
-Version Control: Git, GitHub
+
+Version Control: GitHub
+
 Other Skills: Data Cleaning, Business Analytics, Research & Evaluation
 
 📂 Featured Projects
