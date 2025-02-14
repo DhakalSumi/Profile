@@ -18,6 +18,7 @@ Version Control: Git, GitHub
 Other Skills: Data Cleaning, Business Analytics, Research & Evaluation
 
 📂 Featured Projects
+
 📌 Project Unicorn
 Conducted an in-depth sales data analysis to identify customer behavior trends, product performance, and regional profitability.
 Built interactive dashboards in Tableau and leveraged SQL for data extraction.
