@@ -30,5 +30,7 @@ Analyzed qualitative & quantitative data to assess project impact.
 Created reports for stakeholders, ensuring transparency and accountability.
 
 📫 Let's Connect!
+
 LinkedIn: linkedin.com/in/sumidhakal
+
 GitHub: github.com/sumidhakal
